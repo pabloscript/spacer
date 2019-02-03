@@ -1,10 +1,10 @@
 import { shallowMount } from '@vue/test-utils';
-import HelloWorld from '@/components/HelloWorld.vue';
 
-describe('HelloWorld.vue', () => {
+describe('sample test', () => {
   it('renders props.msg when passed', () => {
+    const comp = 'component';
     const msg = 'new message';
-    const wrapper = shallowMount(HelloWorld, {
+    const wrapper = shallowMount(comp, {
       propsData: { msg },
     });
     expect(wrapper.text()).toMatch(msg);
