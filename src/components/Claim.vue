@@ -2,7 +2,7 @@
   <div class="claimWrapper">
     <h1 class="claim">SPACER</h1>
     <p class="subclaim">
-      Begin your journey through our amazing galaxy,
+      Begin your journey through our amazing galaxy
       and discover places you've never even heard of.
     </p>
     <p class="subclaim">
