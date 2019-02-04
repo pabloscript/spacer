@@ -43,14 +43,14 @@ export default {
 
   .subclaim {
     margin: 20px 0 0 0;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 400;
+    line-height: 1.25;
 
     @media (min-width: 768px) {
-      font-size: 20px;
+      font-size: 22px;
       width: 500px;
-      line-height: 1;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
     }
   }
 
